@@ -739,7 +739,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 169f13a1ed5ea25458ad1b4c22e36bd4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  cellPrefab: {fileID: 657437885705300017, guid: 4e5a780a11ba74a48a8100467e41da30, type: 3}
+  cellPrefab: {fileID: 5976856334161529068, guid: 4e5a780a11ba74a48a8100467e41da30, type: 3}
   numberOfCells: 12
   roundDuration: 10
   scoreText: {fileID: 2013982447}
